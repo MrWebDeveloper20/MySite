@@ -3,7 +3,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: black;
+    background-color: white;
 }
 h1{
     color: gold;
