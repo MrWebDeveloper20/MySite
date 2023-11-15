@@ -20,6 +20,7 @@ span, h4, p{
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
 }
 .logo{
   width: 600px;
