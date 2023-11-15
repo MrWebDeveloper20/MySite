@@ -16,6 +16,11 @@ span, h4, p{
   font-size: 20px;
   font-weight: bold;  
 }
+.resume{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .logo{
   width: 600px;
   border-radius: 10px;
