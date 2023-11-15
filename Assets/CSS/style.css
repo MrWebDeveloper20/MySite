@@ -7,7 +7,7 @@ body{
 h1{
     color: blue;
 }
-span{
+span, h4, p{
   color: blue;
   font-size: 20px;
   font-weight: bold;
