@@ -10,6 +10,7 @@ h1{
     font-size: 45px;
     font-weight: bold;
     font-style: italic;
+    background-color: black;
 }
 span, h4, p{
   color: gold;
