@@ -3,16 +3,16 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: rgb(65, 195, 228);
+    background-color: black;
 }
 h1{
-    color: black;
-    font-size: 35px;
+    color: gold;
+    font-size: 45px;
     font-weight: bold;
     font-style: italic;
 }
 span, h4, p{
-  color: blue;
+  color: gold;
   font-size: 20px;
   font-weight: bold;
   
